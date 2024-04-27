@@ -22,6 +22,6 @@ This project is divided into the following tasks:
 - Task 8: Training the Model
 - Task 9: Final Results
 
-An accuracy of 96.67 was obtained
+An accuracy of 96.67% was obtained
 
 ![image](https://github.com/Kshitij04Poojary/Analysis-Of-Covid-19/assets/143413977/c73db35c-9eae-46cc-84aa-85239f857687)
